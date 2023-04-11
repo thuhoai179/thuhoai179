@@ -5,9 +5,9 @@
 </div>
 
 <h2>Overview</h2>
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thuhoai179&count_private=true&show_icons=true&theme=tokyonight" alt="thuhoai179's github stats" height="200" /> 
+<img align="left" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thuhoai179&count_private=true&show_icons=true&theme=tokyonight" alt="thuhoai179's github stats" /> 
 <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuy0405&layout=compact&theme=aura&langs_count=9" />
-<img height="200" />
+<img height="210" />
 
 <h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>Programming Languages 
