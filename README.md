@@ -20,4 +20,5 @@
 </p>
 <p>Mobile App Development
 	<a href= https://github.com/thuhoai179?tab=repositories&q=&type=&language=reactnative> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
+	<a href= https://github.com/thuhoai179?tab=repositories&q=&type=&language=reactnative> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 </p>
